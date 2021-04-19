@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreekrishnan-r
 - 👀 I’m interested in working on website development and any thing related to python programming.
-- 🌱 I’m currently learning django framework and in progress to develope my own website from scratch.
+- 🌱 I’m currently learning flask framework and in progress to develope my own website from scratch.
 - 📫 How to reach me @ sreekrishnan550@gmail.com  or +91 8095641252
 - 👀 View my resume at https://sreekrishnan-r.github.io/resume/
 
